@@ -12,7 +12,7 @@ html {
     /* overflow-x: hidden; */
   }
   header {
-    background-color: rgb(255, 211, 236);
+    background-color: rgb(167, 150, 136);
     grid-column: 1 / 3;
     color: rgb(255, 255, 255);
     padding: .5rem;
@@ -30,7 +30,7 @@ html {
   }
   nav {
     white-space: nowrap;
-    background:	rgb(237, 82, 123);
+    background:	rgb(217, 204, 193);
   }
   nav ul {
     list-style: none;
